@@ -27,23 +27,23 @@ marcelsnews@gmail.com
 
 #### Olga Diaz
 
-?
+olga.esmerita.diaz.rios@usherbrooke.ca
 
 olgadiazrios@gmail.com
 
 514-713-3162
 
-?
+merycorreo@hotmail.com
 
 #### Soro Hyacinthe
 
-?
+hyacinthe.soro@usherbrooke.ca
 
 hyacinthesoro@gmail.com
 
 438-406-0708
 
-?
+s_hyacinthe
 
 ### Gdrive
 
