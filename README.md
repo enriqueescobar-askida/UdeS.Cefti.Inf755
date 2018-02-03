@@ -49,3 +49,6 @@ s_hyacinthe
 
 https://drive.google.com/drive/folders/1VPRlkKtcRwKo-wR8AmU9RDfWeEpwwFEs?usp=sharing
 
+#### Gdoc Tp1
+
+https://docs.google.com/document/d/1r10lygVrHFl2_lgEPtkCiRhdFFQvVZE8IDXbAKj_w4E/edit?usp=sharing
