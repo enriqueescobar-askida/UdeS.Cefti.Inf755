@@ -43,9 +43,23 @@ INF755 Méthodes d’analyse et de conception
 * objets
 * flot
 
-![Diagramme Activite](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week06/Week06-Sceance2_diag-activite.png)
+![Diagramme Activite-DDA](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week06/Week06-Sceance2_diag-activite.png)
 
 ### Session 3
+
+1. La prise des besoins
+* Espace du problème
+* Caractéristiques
+* Intervenants et utilisateurs
+* Attributs des caractéristiques
+2. Techniques d’explicitation des exigences
+3. Modele du domaine
+* classe
+* classe de description
+* associations: La composition et l’agrégation
+* Les cardinalités / multiplicités
+
+![Modele du domaine-MDD](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week06/Week06-Sceance2_diag-activite.png)
 
 ### Session 4
 
