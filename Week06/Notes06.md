@@ -30,7 +30,7 @@ INF755 Méthodes d’analyse et de conception
 
 4. L’introduction à merise
 
-5. Diagramme d’activité
+5. Diagramme d’activité: ..\S%C3%A9ance-2\Cours02UML-Arch-3.ppt
 * decision
 * fusion
 * parallelisme
@@ -53,7 +53,7 @@ INF755 Méthodes d’analyse et de conception
 * Intervenants et utilisateurs
 * Attributs des caractéristiques
 2. Techniques d’explicitation des exigences
-3. Modele du domaine
+3. Modele du domaine: ..\S%C3%A9ance-3\Cours03Exigences-Domaine-Diag%20CU.ppt
 * classe
 * classe de description
 * associations: La composition et l’agrégation
@@ -63,5 +63,19 @@ INF755 Méthodes d’analyse et de conception
 
 ### Session 4
 
+1. Diagramme de cas d'utilisaton DCU
+* Acteurs
+* Systeme
+* Relations
+* Lien avec le DDA
+2. Cas d'utilisation, elements
+* Titre et numero
+* Objectif - description
+* Pré et Post conditions
+* Acteur – Déclencheur
+* Scénarios nominal et alternatifs
+3. Diagramme de flux de donnees DFD: ..\Séance-4\séance-4_DFD_Analyse.pdf
+
 ### Session 5
 
+1. Modele conceptuel de donnees MCD
