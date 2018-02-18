@@ -59,7 +59,7 @@ INF755 Méthodes d’analyse et de conception
 * associations: La composition et l’agrégation
 * Les cardinalités / multiplicités
 
-![Modele du domaine-MDD](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week06/Week06-Sceance2_diag-activite.png)
+![Modele du domaine-MDD](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week06/Week06-Sceance3_modele-domaine.png)
 
 ### Session 4
 
