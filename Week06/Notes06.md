@@ -4,6 +4,26 @@ INF755 Méthodes d’analyse et de conception
 
 ## Intra
 
+#### Comprendre
+
+1. La raison d’être des diagrammes étudiés
+2. Les liens entre les diagrammes
+3. Ce que l’on découvre dans chacun d’eux
+4. Visualiser le cycle
+5. Bien choisir les diagrammes selon le contexte
+
+#### Forme
+
+1. 3 heures
+2. 1 feuille recto verso 8 ½ X 11 manuscrite
+3. 30% theorie (10 questions) comprehension des concepts
+4. 70% pratique (4 questions) etude de cas
+* Diagramme cas d’utilisation
+* Cas d’utilisation
+* Diagramme de classes (modèle du domaine)
+* Diagramme d’activités
+* DFD
+
 ### Session 1
 
 1. Industrialisation du développement: La maturité de notre domaine
