@@ -24,7 +24,7 @@ La maturité de notre domaine
 
 7. La pyramide
 
-Pyramide
+![Pyramide](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week06/Week06-Sceance1_pyramide.png)
 
 ### Session 2
 
