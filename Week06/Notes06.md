@@ -24,7 +24,7 @@ La maturité de notre domaine
 
 7. La pyramide
 
-
+Pyramide
 
 ### Session 2
 
