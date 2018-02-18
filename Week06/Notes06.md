@@ -43,6 +43,8 @@ INF755 Méthodes d’analyse et de conception
 * objets
 * flot
 
+![Diagramme Activite](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week06/Week06-Sceance2_diag-activite.png)
+
 ### Session 3
 
 ### Session 4
