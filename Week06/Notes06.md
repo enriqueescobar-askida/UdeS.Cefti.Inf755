@@ -79,3 +79,5 @@ INF755 Méthodes d’analyse et de conception
 ### Session 5
 
 1. Modele conceptuel de donnees MCD
+
+![Modele conceptuel de donnees-MCD](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week06/Week06-Sceance5_modele-conceptuel-donnes.png)
