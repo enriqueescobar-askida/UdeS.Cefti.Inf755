@@ -73,7 +73,7 @@ INF755 Méthodes d’analyse et de conception
 * Intervenants et utilisateurs
 * Attributs des caractéristiques
 2. Techniques d’explicitation des exigences
-3. Modele du domaine: ..\S%C3%A9ance-3\Cours03Exigences-Domaine-Diag%20CU.ppt
+3. Modele du domaine: [..\S%C3%A9ance-3\Cours03Exigences-Domaine-Diag%20CU.ppt](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week03/Notes03.pdf)
 * classe
 * classe de description
 * associations: La composition et l’agrégation
