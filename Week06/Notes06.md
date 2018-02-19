@@ -50,7 +50,7 @@ INF755 Méthodes d’analyse et de conception
 
 4. L’introduction à merise
 
-5. Diagramme d’activité: ..\S%C3%A9ance-2\Cours02UML-Arch-3.ppt
+5. Diagramme d’activité: [..\S%C3%A9ance-2\Cours02UML-Arch-3.ppt](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week02/Notes02-Architecture_SI.pdf)
 * decision
 * fusion
 * parallelisme
