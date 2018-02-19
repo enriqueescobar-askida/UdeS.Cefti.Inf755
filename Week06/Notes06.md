@@ -94,8 +94,8 @@ INF755 Méthodes d’analyse et de conception
 * Pré et Post conditions
 * Acteur – Déclencheur
 * Scénarios nominal et alternatifs
-3. Diagramme de flux de donnees DFD: ..\Séance-4\séance-4_DFD_Analyse.pdf
-    [https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week04/Notes04-Analyse_DFD.pdf](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week04/Notes04-Analyse_DFD.pdf)
+3. Diagramme de flux de donnees DFD:
+    [..\Séance-4\séance-4_DFD_Analyse.pdf](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week04/Notes04-Analyse_DFD.pdf)
 
 ### Session 5
 
