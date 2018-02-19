@@ -8,10 +8,10 @@ Inf755 Description
 
 Membre | UdeS | Gmail | Cell | Skype
 ---------|----------|---------|---------|---------
-Enrique Escobar | dante.enrique.escobar.espinoza@usherbrooke.ca | escobarebio@gmail.com | 514-690-8398 | enrique.escobar@axon-id.com
-Marcel Tawe | marcel.tawe@usherbrooke.ca | marcelsnews@gmail.com | 514-770-2013 | ?
-Olga Diaz | olga.esmerita.diaz.rios@usherbrooke.ca | olgadiazrios@gmail.com | 514-713-3162 | merycorreo@hotmail.com
-Soro Hyacinthe | hyacinthe.soro@usherbrooke.ca | hyacinthesoro@gmail.com | 438-406-0708 | s_hyacinthe
+Enrique Escobar | dante.enrique.escobar.espinoza | escobarebio@gmail.com | 514-690-8398 | enrique.escobar@axon-id.com
+Marcel Tawe | marcel.tawe | marcelsnews@gmail.com | 514-770-2013 | ?
+Olga Diaz | olga.esmerita.diaz.rios | olgadiazrios@gmail.com | 514-713-3162 | merycorreo@hotmail.com
+Soro Hyacinthe | hyacinthe.soro | hyacinthesoro@gmail.com | 438-406-0708 | s_hyacinthe
 
 ### Gdrive
 
