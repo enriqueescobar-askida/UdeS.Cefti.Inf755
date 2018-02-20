@@ -39,7 +39,7 @@ INF755 Méthodes d’analyse et de conception
 
 3. Model Driven Architecture: Modele base sur le domain d'affaires <http://www.modeliosoft.com/fr/technologies/mda.html>
 
-4. Les raisons d’échec des projets en TI: temps, budget, scope, requis
+4. Les raisons d’échec des projets en TI: temps, budget, scope, requis (fonction et tailles)
 
 5. Artisanat vers Ingénierie
 
@@ -49,7 +49,7 @@ INF755 Méthodes d’analyse et de conception
 
 ### Session 2
 
-1. L’architecture des SI
+1. L’architecture des SI: Top Grands Processus, LEFT GrandsResources/Axes, RIGHT GrandsServices/Lignes
 
 2. Les types de Méthodologie: Agile Vs Waterfall
 
@@ -58,10 +58,10 @@ INF755 Méthodes d’analyse et de conception
 4. L’introduction à merise
 
 5. Diagramme d’activité: [..\S%C3%A9ance-2\Cours02UML-Arch-3.ppt](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week02/Notes02-Architecture_SI.pdf)
-* decision
-* fusion
-* parallelisme
-* synchronisation
+* decision: losange
+* fusion: deux fleches vers | une fleche -et inverse pour split-
+* parallelisme: fleches ||
+* synchronisation: |
 
 6. Les éléments
 * activite
