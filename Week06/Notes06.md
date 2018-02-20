@@ -91,17 +91,17 @@ INF755 Méthodes d’analyse et de conception
 ### Session 4
 
 1. Diagramme de cas d'utilisaton DCU
-* Acteurs
-* Systeme
-* Relations
-* Lien avec le DDA
+* Acteurs: primaire, secondaire
+* Systeme: contextuel
+* Relations: nommer les relations
+* Lien avec le DDA: contenir les meme elements
 2. Cas d'utilisation, elements
 * Titre et numero
 * Objectif - description
 * Pré et Post conditions
 * Acteur – Déclencheur
 * Scénarios nominal et alternatifs
-3. Diagramme de flux de donnees DFD:
+3. Diagramme de flux de donnees DFD: ![DfD](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week06/Week06-Sceance4_diag-flux-donnees.png)
     [..\Séance-4\séance-4_DFD_Analyse.pdf](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week04/Notes04-Analyse_DFD.pdf)
 
 ### Session 5
