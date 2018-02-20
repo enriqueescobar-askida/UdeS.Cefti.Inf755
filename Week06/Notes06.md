@@ -26,9 +26,10 @@ INF755 Méthodes d’analyse et de conception
 
 ### Session 1
 
-1. Industrialisation du développement: La maturité de notre domaine
+1. Industrialisation du développement: La maturité de notre domaine jeune 60 ans
 
-2. Software factories: [Notes01-SoftwareFactories](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week01/Notes01-SoftwareFactories_p16_greenfield.pdf)
+2. Software factories: par framewrok, modelisation de classes, ComputerAidedSoftwareEngineering, MDA
+    [Notes01-SoftwareFactories](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week01/Notes01-SoftwareFactories_p16_greenfield.pdf)
 * Dev by assembly
 * Soft supply chains
 * Relationship Management
@@ -36,11 +37,11 @@ INF755 Méthodes d’analyse et de conception
 * Mass Customization
 * Organizational Change
 
-3. Model Driven Architecture: <http://www.modeliosoft.com/fr/technologies/mda.html>
+3. Model Driven Architecture: Modele base sur le domain d'affaires <http://www.modeliosoft.com/fr/technologies/mda.html>
 
-4. Les raisons d’échec des projets en TI
+4. Les raisons d’échec des projets en TI: temps, budget, scope, requis
 
-5. Artisanat vs Ingénierie
+5. Artisanat vers Ingénierie
 
 6. Avantages et inconvénients de MDA
 
