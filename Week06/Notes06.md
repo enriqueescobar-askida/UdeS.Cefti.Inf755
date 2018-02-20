@@ -55,20 +55,20 @@ INF755 Méthodes d’analyse et de conception
 
 3. L’introduction aux diagrammes UML: diagramme d'activite
 
-4. L’introduction à merise
+4. L’introduction à Merise
 
-5. Diagramme d’activité: [..\S%C3%A9ance-2\Cours02UML-Arch-3.ppt](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week02/Notes02-Architecture_SI.pdf)
+5. Diagramme d’activité DDA: [..\S%C3%A9ance-2\Cours02UML-Arch-3.ppt](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week02/Notes02-Architecture_SI.pdf)
 * decision: losange
 * fusion: deux fleches vers | une fleche -et inverse pour split-
 * parallelisme: fleches ||
 * synchronisation: |
 
 6. Les éléments
-* activite
-* partition
-* exception
-* objets
-* flot
+* activite: bulle
+* partition: ?
+* exception: ?
+* objets: rectangles
+* flot: fleches
 
 ![Diagramme Activite-DDA](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week06/Week06-Sceance2_diag-activite.png)
 
