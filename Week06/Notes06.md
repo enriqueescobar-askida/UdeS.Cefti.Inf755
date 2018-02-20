@@ -28,7 +28,7 @@ INF755 Méthodes d’analyse et de conception
 
 1. Industrialisation du développement: La maturité de notre domaine
 
-2. Software factories:
+2. Software factories: [Notes01-SoftwareFactories](https://github.com/enriqueescobar-askida/UdeS.Cefti.Inf755/blob/master/Week01/Notes01-SoftwareFactories_p16_greenfield.pdf)
 
 3. Model Driven Architecture: <http://www.modeliosoft.com/fr/technologies/mda.html>
 
